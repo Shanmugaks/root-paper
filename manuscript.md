@@ -1,14 +1,13 @@
 ---
-title: Manuscript Title
+title: SELF-SUPERVISED PRETRAINING FOR EEG ANALYSIS
 keywords:
 - markdown
 - publishing
 - manubot
 lang: en-US
-date-meta: '2025-03-04'
+date-meta: '2025-03-05'
 author-meta:
-- John Doe
-- Jane Roe
+- Shanmuga
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -16,38 +15,34 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2025-03-04" />
-  <meta name="citation_publication_date" content="2025-03-04" />
-  <meta property="article:published_time" content="2025-03-04" />
-  <meta name="dc.modified" content="2025-03-04T20:12:48+00:00" />
-  <meta property="article:modified_time" content="2025-03-04T20:12:48+00:00" />
+  <meta name="dc.title" content="SELF-SUPERVISED PRETRAINING FOR EEG ANALYSIS" />
+  <meta name="citation_title" content="SELF-SUPERVISED PRETRAINING FOR EEG ANALYSIS" />
+  <meta property="og:title" content="SELF-SUPERVISED PRETRAINING FOR EEG ANALYSIS" />
+  <meta property="twitter:title" content="SELF-SUPERVISED PRETRAINING FOR EEG ANALYSIS" />
+  <meta name="dc.date" content="2025-03-05" />
+  <meta name="citation_publication_date" content="2025-03-05" />
+  <meta property="article:published_time" content="2025-03-05" />
+  <meta name="dc.modified" content="2025-03-04T20:52:52+00:00" />
+  <meta property="article:modified_time" content="2025-03-04T20:52:52+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author" content="Shanmuga" />
+  <meta name="citation_author_institution" content="Federation University" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <link rel="canonical" href="https://Shanmugaks.github.io/root-paper/" />
   <meta property="og:url" content="https://Shanmugaks.github.io/root-paper/" />
   <meta property="twitter:url" content="https://Shanmugaks.github.io/root-paper/" />
   <meta name="citation_fulltext_html_url" content="https://Shanmugaks.github.io/root-paper/" />
   <meta name="citation_pdf_url" content="https://Shanmugaks.github.io/root-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Shanmugaks.github.io/root-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Shanmugaks.github.io/root-paper/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/" />
-  <meta name="manubot_html_url_versioned" content="https://Shanmugaks.github.io/root-paper/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Shanmugaks.github.io/root-paper/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Shanmugaks.github.io/root-paper/v/8fbf28917ce73a6ca2b477bee1e8e0ca043ddc62/" />
+  <meta name="manubot_html_url_versioned" content="https://Shanmugaks.github.io/root-paper/v/8fbf28917ce73a6ca2b477bee1e8e0ca043ddc62/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Shanmugaks.github.io/root-paper/v/8fbf28917ce73a6ca2b477bee1e8e0ca043ddc62/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,56 +64,54 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Shanmugaks.github.io/root-paper/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/))
+([permalink](https://Shanmugaks.github.io/root-paper/v/8fbf28917ce73a6ca2b477bee1e8e0ca043ddc62/))
 was automatically generated
-from [Shanmugaks/root-paper@ca748bf](https://github.com/Shanmugaks/root-paper/tree/ca748bf4e80a830d7bee69a20b1fae18e028d9e6)
+from [Shanmugaks/root-paper@8fbf289](https://github.com/Shanmugaks/root-paper/tree/8fbf28917ce73a6ca2b477bee1e8e0ca043ddc62)
 on March 4, 2025.
 </em></small>
 
+Published: March 5, 2025
 
 
 ## Authors
 
 
 
-+ **John Doe**
++ **Shanmuga**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
+    [shanmugaks](https://github.com/shanmugaks)
     · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
     [johndoe](https://twitter.com/johndoe)
     · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
     [\@johndoe@mastodon.social](https://mastodon.social/@johndoe)
     <br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**
-  ^[✉](#correspondence)^<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)
-    <br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Federation University
+     · Funded by Anidra
   </small>
 
 
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/Shanmugaks/root-paper/issues)
-or email to
-Jane Roe \<jane.roe@whatever.edu\>.
-
 
 :::
 
 
 ## Abstract {.page_break_before}
+## SELF-SUPERVISED PRETRAINING FOR EEG ANALYSIS 
+A Foundational Model for Brain Signals 
+ABSTRACT
+Electroencephalography (EEG) is a valuable neuroimaging tool widely used in healthcare, brain-computer interfaces (BCI), and cognitive research. However, EEG analysis faces challenges, including data scarcity, task-specific models, and high computational costs due to the need for training separate models for each task. 
+
+This research proposes a self-supervised pretraining (SSP) framework for learning general-purpose EEG representations from unlabeled data , which can then be fine-tuned for diverse downstream tasks. The novelty of this work lies in developing a unified, task-agnostic model that generalizes across multiple EEG applications, including seizure detection, emotion recognition, cognitive workload estimation, and autism spectrum disorder (ASD) diagnosis.   
+
+The study explores will explore various self-supervised learning  (SSL) techniques, including masked signal prediction, contrastive learning, and generative pretraining. This approach enhances is expected to enhance efficiency, generalization, and flexibility, positioning it as a foundational model for future EEG research. 
+
+
+Here is a sentence with several citations [@doi:10.15363/thinklab.4; @pubmed:26158728; @arxiv:1508.06576; @isbn:9780394603988].
 
 
 

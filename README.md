@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/Shanmugaks/root-paper/tree/gh-pages) branch hosts the contents of this directory at <https://Shanmugaks.github.io/root-paper/>.
-The permalink for this webpage version is <https://Shanmugaks.github.io/root-paper/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/>.
+The permalink for this webpage version is <https://Shanmugaks.github.io/root-paper/v/8fbf28917ce73a6ca2b477bee1e8e0ca043ddc62/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://Shanmugaks.github.io/root-paper/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`ca748bf4e80a830d7bee69a20b1fae18e028d9e6`](https://github.com/Shanmugaks/root-paper/commit/ca748bf4e80a830d7bee69a20b1fae18e028d9e6).
+[`8fbf28917ce73a6ca2b477bee1e8e0ca043ddc62`](https://github.com/Shanmugaks/root-paper/commit/8fbf28917ce73a6ca2b477bee1e8e0ca043ddc62).
